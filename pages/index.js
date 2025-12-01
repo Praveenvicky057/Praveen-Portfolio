@@ -40,7 +40,7 @@ export default function Home() {
         <motion.div initial={{ opacity: 0, x: -50 }} whileInView={{ opacity: 1, x: 0 }} transition={{ duration: 0.6 }} viewport={{ once: true }}>
           <h2 className="text-3xl font-semibold mb-2">About</h2>
           <p className="text-gray-300">
-            I’m a software tester with 4 years of experience in both manual and automation testing.
+            I’m a software tester nearly 5 years of experience in both manual and automation testing.
             Skilled in Java, Selenium WebDriver, TestNG, and CI/CD tools like Jenkins. Experienced in
             SQL, Agile methodologies, and test management using Azure Boards.
           </p>
